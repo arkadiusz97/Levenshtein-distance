@@ -6,12 +6,12 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>700</width>
-    <height>576</height>
+    <width>622</width>
+    <height>567</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Levenshtein distance - Arkadiusz97</string>
+   <string>Levenshtein distance 1.1 - Arkadiusz97</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -121,6 +121,30 @@
     </item>
     <item>
      <widget class="QLabel" name="labelSimilarity">
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QCheckBox" name="checkBoxCalculateEverything">
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Calculate everything at once</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="labelCost">
       <property name="font">
        <font>
         <pointsize>16</pointsize>
