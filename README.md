@@ -7,4 +7,4 @@ To build and run this program, you need a libary Qt 5.12.2 and operating system 
 ![Window1](https://raw.githubusercontent.com/arkadiusz97/Levenshtein-distance/master/screenshots/1.png)
 ![Window2](https://raw.githubusercontent.com/arkadiusz97/Levenshtein-distance/master/screenshots/2.png)
 # Download.
-Download the newest version for Microsoft Windows 7, 8 and 10(32/64 bit): https://github.com/arkadiusz97/Levenshtein-distance/releases/download/1.1/bin_Levenshtein.zip
+Download the latest version for Microsoft Windows 7, 8 and 10(32/64 bit): https://github.com/arkadiusz97/Levenshtein-distance/releases/download/1.1/bin_Levenshtein.zip
